@@ -6,9 +6,19 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Clemson Cadence Project',
+			logo: {
+				src: './src/assets/Clemson_Cadence Logo.png'
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+				{
+					label: 'Getting Started',
+					items: [
+						{ label: 'Setting Up', slug: 'start/setup'},
+						{ label: 'Training Courses', slug:'start/training'}
+					],
+				},
 				{
 					label: 'Guides',
 					items: [
