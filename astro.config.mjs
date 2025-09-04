@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://clemsoncadenceproject.github.io',
 	integrations: [
 		starlight({
 			title: 'Clemson Cadence Project',
