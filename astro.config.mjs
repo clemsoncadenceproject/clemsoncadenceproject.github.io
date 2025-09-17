@@ -7,7 +7,7 @@ export default defineConfig({
 	site: 'https://clemsoncadenceproject.github.io',
 	integrations: [
 		starlight({
-			title: 'Clemson Cadence Project',
+			title: '',
 			logo: {
 				src: './src/assets/Clemson_Cadence Logo.png'
 			},
