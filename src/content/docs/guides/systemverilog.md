@@ -34,3 +34,17 @@ This module explains interfaces which are helpful in connecting ports in a less 
 
 ## Module 11: Simple Verification Features
 The module gives you some extra tools to assist in testbench writing such as forks, assertions, and string methods. The following modules will be more focused on verification and testbenches from here on out.
+
+## Module 12: Clocking Blocks 
+This module gives insight on how to create more precise timing for your stimulus signal for your test bench. The lab is straightforward just make sure to use the constructs given to you in the videos. In addition, the lab requires the use of SimVision which is the GUI for viewing signals in which I will give a quick tutorial on how to use it for this lab.
+
+#### SimVision
+1. To start the application, enter these options behind your files: -access +rwc -gui -64bit. -access +rwc is crucial because it will allow the simulation file to be read.
+
+![SimVisionCommandline](/home/adayrit/ccpw/clemsoncadenceproject.github.io/src/assets/guide_assets/sv_guide_assets/SimVision1.png)
+
+2. When you enter SimVision click on testflop to reveal the data options. Right click the block you want to view and select Send to Waveform Window.
+
+![SimVisionWDesignBrowser](/home/adayrit/ccpw/clemsoncadenceproject.github.io/src/assets/guide_assets/sv_guide_assets/SimVision2.png)
+
+
