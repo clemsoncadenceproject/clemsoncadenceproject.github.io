@@ -11,7 +11,6 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/Clemson_Cadence Logo.png'
 			},
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
 					label: 'Getting Started',
