@@ -16,7 +16,8 @@ export default defineConfig({
 					label: 'Getting Started',
 					items: [
 						{ label: 'Setting Up', slug: 'start/setup'},
-						{ label: 'Training Courses', slug:'start/training'}
+						{ label: 'Training Courses', slug:'start/training'},
+						{ label: 'Ambassador Program', slug: 'start/ambas'}
 					],
 				},
 				{
@@ -28,8 +29,12 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'More',
+					items: [
+						{label:'Opportunities', slug: 'other/opport' },
+						{label:'Contact Us', slug: 'other/contact'},
+						{label:'Credits', slug:'other/credits'}
+					]
 				},
 			],
 		}),
