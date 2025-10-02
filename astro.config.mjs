@@ -33,7 +33,9 @@ export default defineConfig({
 					items: [
 						{label:'Opportunities', slug: 'other/opport' },
 						{label:'Contact Us', slug: 'other/contact'},
-						{label:'Credits', slug:'other/credits'}
+						{label:'Credits', slug:'other/credits'},
+						{label:'License Specifications', slug:'other/license'},
+						{label:'Need Help?', slug:'other/help' }
 					]
 				},
 			],
