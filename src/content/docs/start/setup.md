@@ -25,9 +25,7 @@ Once your account has been set up, you'll receive an email from someone at Caden
 
 Now, you should be able to login and access the Cadence Support home page. This is the site that we'll be using to access the software downloads and the training courses.
 
-<div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/academicnetwork.png" alt="Cadence Homepage">
-</div>
+![Cadence Homepage](/src/assets/getstarted/academicnetwork.png)
 
 ### Training Courses
 
@@ -57,10 +55,7 @@ The first software you'll want to install is the Cisco AnyConnect VPN. This will
 
 Expand the "Instructions" section to view all the steps for installing the VPN, then hit "Download for Windows" and begin the installation process. Once the software is done installing, launch the Cisco AnyConnect app. You'll want to connect to "cuvpn.clemson.edu". You'll be prompted to log in - use your Clemson username, password, and then type "push" in the third field in order to get the two-factor authentication sent to your Duo app.
 
-
-<div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/citrix.jpg" alt="Cisco VPN">
-</div>
+![Cisco VPN](/src/assets/getstarted/citrix.jpg)
 
 ### OrCAD and Allegro
 
@@ -73,6 +68,7 @@ To use CUapps, you can either download the Citrix Workspace desktop application 
 <div style="display: flex; justify-content: center;">
   <img src="/src/assets/getstarted/CapCUAPP.jpg" alt="Capture in CUApps">
 </div>
+
 <div style="display: flex; justify-content: center;">
   <img src="/src/assets/getstarted/APEAPP.jpg" alt="Allegro in CUApps">
 </div>
@@ -83,17 +79,13 @@ Some Cadence software, such as Virtuoso and Innovus, are Linux-based application
 #### Account Setup
 As of Fall 2024, the procedure for gaining access to the Palmetto Cluster has been revised. Individual students are no longer able to request access to cluster allocations, and must be added by a faculty sponsor. For the time being, if you wish to access the Palmetto Cluster then please contact your faculty advisor or Dr. Tao Wei (twei2@clemson.edu) with regards to sponsorship. If you are accessing Linux-based tools for a course, check with your teacher to see if you are given access for the course. For more information, see [this website](https://docs.rcd.clemson.edu/palmetto/accounts/setup/).
 
-<div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/PCSetup.jpg" alt="Palmetto Cluster Homepage">
-</div>
+![Palmetto Cluster Homepage](/src/assets/getstarted/PCSetup.jpg)
 
 It typically takes some time processed, so you won't have access to Palmetto right away after submitting the form. Continue to check your email frequently for confirmation and updates, and I recommend attempting to access the Palmetto OnDemand site to see if your account has been set up, as sometimes your account might be given access before you get a confirmation email. Note that since the Palmetto Cluster machine isn't set up on Clemson's campus network, you'll have to complete a Duo authentication whenever you want to access it - even if you're on the CUVPN or Clemson campus network. More comprehensive information on getting started with the Palmetto Cluster is located on their documentation site. 
 
 I highly suggest completing an onboarding training session to get comfortable with using Palmetto before moving forward, and it's a great idea to read through the documentation site to better understand what Palmetto is, how it works, and how to use it properly.
 
-<div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/PCMOTD.jpg" alt="MOTD">
-</div>
+![MOTD](/src/assets/getstarted/PCMOTD.jpg)
 
 #### Using Palmetto
 

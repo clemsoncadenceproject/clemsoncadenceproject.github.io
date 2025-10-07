@@ -64,9 +64,7 @@ This module gives insight on how to create more precise timing for your stimulus
 
 3. In the Waveform window, select the down arrow on the right of the play button and input how long you want the simulation to run for. After running the simulation, you can adjust the viewing by enlarging or constraining the timescale using the plus and minus symbols in the top right
 
-<p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision3.png" alt="SimVisionWaveForm">
-</p>
+![SimVision Waveform](/src/assets/guide_assets/sv_guide_assets/SimVision3.png)
 
 ## Module 13: Random Stimulus
 
