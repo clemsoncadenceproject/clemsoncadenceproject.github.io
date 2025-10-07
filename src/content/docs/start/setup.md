@@ -14,7 +14,7 @@ To start, you'll want to go to the [CCIT page for Cadence](https://ccit.clemson.
 Since the Cadence University Program partnership was rolled out to Clemson at the beginning of the Spring 2023 semester, it's possible that an account has already been created for your username, or that you created one yourself when emails were initially sent out regarding the partnership in January of 2023. It may be beneficial to attempt to login to the Cadence Support site or create an account there using your Clemson email address before requesting access on the CCIT page.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/reqform.png" alt="CCIT Request Form">
+  <img src="../../../assets/getstarted/reqform.png" alt="CCIT Request Form">
 </div>
 
 On the request form, put Dr. Tao Wei's name and contact in as the information for faculty advisior. Additionally, make sure to specify the OrCAD and Allegro software, and to check the box to request access to the online education and training resources.
@@ -25,7 +25,7 @@ Once your account has been set up, you'll receive an email from someone at Caden
 
 Now, you should be able to login and access the Cadence Support home page. This is the site that we'll be using to access the software downloads and the training courses.
 
-![Cadence Homepage](/src/assets/getstarted/academicnetwork.png)
+![Cadence Homepage](../../../assets/getstarted/academicnetwork.png)
 
 ### Training Courses
 
@@ -55,7 +55,7 @@ The first software you'll want to install is the Cisco AnyConnect VPN. This will
 
 Expand the "Instructions" section to view all the steps for installing the VPN, then hit "Download for Windows" and begin the installation process. Once the software is done installing, launch the Cisco AnyConnect app. You'll want to connect to "cuvpn.clemson.edu". You'll be prompted to log in - use your Clemson username, password, and then type "push" in the third field in order to get the two-factor authentication sent to your Duo app.
 
-![Cisco VPN](/src/assets/getstarted/citrix.jpg)
+![Cisco VPN](../../../assets/getstarted/citrix.jpg)
 
 ### OrCAD and Allegro
 
@@ -66,11 +66,11 @@ If you're not sure that your computer meets the specifications for Cadence's sof
 To use CUapps, you can either download the Citrix Workspace desktop application by following the linked CCIT instructions, or you can access CUapps online in your web browser. While in CUapps, click the "Apps" icon at the top of the window and then scroll down to find the app you wish to use. From the Cadence suite, you'll have access to Capture CIS 2022, which is used primarily for schematic and circuit design, Allegro PCB Editor, which is used for printed circuit board design, as well as the Cadence Help 2022 and the Cadence OrCAD and Allegro Tutorials 2022 which can be used for troubleshooting and basic help using the apps.
 
 <div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/CapCUAPP.jpg" alt="Capture in CUApps">
+  <img src="../../../assets/getstarted/CapCUAPP.jpg" alt="Capture in CUApps">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="/src/assets/getstarted/APEAPP.jpg" alt="Allegro in CUApps">
+  <img src="../../../assets/getstarted/APEAPP.jpg" alt="Allegro in CUApps">
 </div>
 
 ### Using the Palmetto Cluster
@@ -79,7 +79,7 @@ Some Cadence software, such as Virtuoso and Innovus, are Linux-based application
 #### Account Setup
 As of Fall 2024, the procedure for gaining access to the Palmetto Cluster has been revised. Individual students are no longer able to request access to cluster allocations, and must be added by a faculty sponsor. For the time being, if you wish to access the Palmetto Cluster then please contact your faculty advisor or Dr. Tao Wei (twei2@clemson.edu) with regards to sponsorship. If you are accessing Linux-based tools for a course, check with your teacher to see if you are given access for the course. For more information, see [this website](https://docs.rcd.clemson.edu/palmetto/accounts/setup/).
 
-![Palmetto Cluster Homepage](/src/assets/getstarted/PCSetup.jpg)
+![Palmetto Cluster Homepage](../../../assets/getstarted/PCSetup.jpg)
 
 It typically takes some time processed, so you won't have access to Palmetto right away after submitting the form. Continue to check your email frequently for confirmation and updates, and I recommend attempting to access the Palmetto OnDemand site to see if your account has been set up, as sometimes your account might be given access before you get a confirmation email. Note that since the Palmetto Cluster machine isn't set up on Clemson's campus network, you'll have to complete a Duo authentication whenever you want to access it - even if you're on the CUVPN or Clemson campus network. More comprehensive information on getting started with the Palmetto Cluster is located on their documentation site. 
 

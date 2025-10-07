@@ -53,18 +53,18 @@ This module gives insight on how to create more precise timing for your stimulus
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision1.png" alt="SimVisionCommandline">
+  <img src="../../../assets/guide_assets/sv_guide_assets/SimVision1.png" alt="SimVisionCommandline">
 </p>
 
 2. When you enter SimVision click on testflop to reveal the data options. Right click the block you want to view and select Send to Waveform Window.
 
 <p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision2.png" alt="SimVisionWDesignBrowser">
+  <img src="../../../assets/guide_assets/sv_guide_assets/SimVision2.png" alt="SimVisionWDesignBrowser">
 </p>
 
 3. In the Waveform window, select the down arrow on the right of the play button and input how long you want the simulation to run for. After running the simulation, you can adjust the viewing by enlarging or constraining the timescale using the plus and minus symbols in the top right
 
-![SimVision Waveform](/src/assets/guide_assets/sv_guide_assets/SimVision3.png)
+![SimVision Waveform](../../../assets/guide_assets/sv_guide_assets/SimVision3.png)
 
 ## Module 13: Random Stimulus
 
@@ -97,15 +97,15 @@ The module provides an explanation on covergroups and coverpoints to make sure t
 To use IMC, use the command **module load cadence/VMANAGER/2209** in the terminal
 
 <p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/IMC1.png" alt="IMC1">
+  <img src="../../../assets/guide_assets/sv_guide_assets/IMC1.png" alt="IMC1">
 </p>
 
 <p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/IM2.png" alt="IMC2">
+  <img src="../../../assets/guide_assets/sv_guide_assets/IM2.png" alt="IMC2">
 </p>
 
 <p align="center">
-  <img src="/src/assets/guide_assets/sv_guide_assets/IM3.png" alt="IMC3">
+  <img src="../../../assets/guide_assets/sv_guide_assets/IM3.png" alt="IMC3">
 </p>
 
 <!-- markdownlint-enable MD033 -->
