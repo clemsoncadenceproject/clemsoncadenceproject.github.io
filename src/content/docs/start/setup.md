@@ -85,7 +85,7 @@ It typically takes some time processed, so you won't have access to Palmetto rig
 
 I highly suggest completing an onboarding training session to get comfortable with using Palmetto before moving forward, and it's a great idea to read through the documentation site to better understand what Palmetto is, how it works, and how to use it properly.
 
-![MOTD](/src/assets/getstarted/PCMOTD.jpg)
+![MOTD](../../../assets/getstarted/PCMOTD.jpg)
 
 #### Using Palmetto
 
