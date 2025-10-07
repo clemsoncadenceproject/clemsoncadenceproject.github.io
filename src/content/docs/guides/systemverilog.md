@@ -51,15 +51,22 @@ This module gives insight on how to create more precise timing for your stimulus
 
 1. To start the application, enter these options behind your files: **-access +rwc -gui -64bit. -access +rwc** is crucial because it will allow the simulation file to be read.
 
-![SimVisionCommandline](/src/assets/guide_assets/sv_guide_assets/SimVision1.png)
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision1.png" alt="SimVisionCommandline">
+</p>
 
 2. When you enter SimVision click on testflop to reveal the data options. Right click the block you want to view and select Send to Waveform Window.
 
-![SimVisionWDesignBrowser](/src/assets/guide_assets/sv_guide_assets/SimVision2.png)
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision2.png" alt="SimVisionWDesignBrowser">
+</p>
 
 3. In the Waveform window, select the down arrow on the right of the play button and input how long you want the simulation to run for. After running the simulation, you can adjust the viewing by enlarging or constraining the timescale using the plus and minus symbols in the top right
 
-![SimVisionWaveForm](/src/assets/guide_assets/sv_guide_assets/SimVision3.png)
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/SimVision3.png" alt="SimVisionWaveForm">
+</p>
 
 ## Module 13: Random Stimulus
 
@@ -84,3 +91,43 @@ This module covers virtual interfaces and how they enhance your testbenches. The
 ## Module 18: Covergroup Coverage
 
 The module provides an explanation on covergroups and coverpoints to make sure that you verify all the different states or cases of your circuit. This module contains two labs and uses the IMC (Incisive Metrics Center) to view the circuit coverage. Both labs are similar and make sure to use the methods given to you in the module.
+
+<p style="color: red;"><strong>Quick Note:</strong> Make sure that your Palmetto Desktop node has at least 4 GB of memory because IMC uses a lot of it.</p>
+
+**How to start and use Cadence IMC (Incisive Metrics Center) for Lab 18:**
+
+To use IMC, use the command **module load cadence/VMANAGER/2209** in the terminal
+
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/IMC1.png" alt="IMC1">
+</p>
+
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/IM2.png" alt="IMC2">
+</p>
+
+<p align="center">
+  <img src="/src/assets/guide_assets/sv_guide_assets/IM3.png" alt="IMC3">
+</p>
+
+<!-- markdownlint-enable MD033 -->
+
+## Module 19: Queues and Dynamic and Associative Arrays (QDA)
+
+The module covers the basics on three new array types that are helpful for modeling different data structures. The lab is straightforward as long as you follow the definitions for each array type. I recommend doing the queue array as a structure to practice using them more.
+
+## Module 20: Introduction to Assertion-Based Verification (ABV)
+
+This module provides an overview of verifying design behavior with assertions as opposed to HDL-based assertions. No lab in this module.
+
+## Module 21: Introduction to SystemVerilog Assertions (SVA)
+
+Taking assertions further, this module explains how to use assertions in SystemVerilog. This module has two labs which are straightforward. I recommend using method two for asserting properties (1.6). In addition, the labs require you to view the waveform, so I also recommend that you only send the assertion to the waveform window to minimize clutter.
+
+## Module 22: Direct Programming Interface (DPI)
+
+The module covers the interface between SystemVerilog and a foreign language such as C. Doing this allows engineers to reuse C code and algorithms, and to interface with environmental hardware/software. The lab is short but make sure to do some research on how the C functions work. Also, a const char* data type is equivalent to a string in SystemVerilog.
+
+## Module 23: Interprocess Synchronization
+
+This last module introduces you to some event synchronization methods such as the non-blocking event trigger, event sequences, mailboxes, and semaphores. This module has three short labs. Be sure to use the methods provided in the module to complete the labs.
