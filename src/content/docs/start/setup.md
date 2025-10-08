@@ -13,9 +13,7 @@ To start, you'll want to go to the [CCIT page for Cadence](https://ccit.clemson.
 
 Since the Cadence University Program partnership was rolled out to Clemson at the beginning of the Spring 2023 semester, it's possible that an account has already been created for your username, or that you created one yourself when emails were initially sent out regarding the partnership in January of 2023. It may be beneficial to attempt to login to the Cadence Support site or create an account there using your Clemson email address before requesting access on the CCIT page.
 
-<div style="display: flex; justify-content: center;">
-  <img src="../../../assets/getstarted/reqform.png" alt="CCIT Request Form">
-</div>
+![CCIT Request Form](../../../assets/getstarted/reqform.png)
 
 On the request form, put Dr. Tao Wei's name and contact in as the information for faculty advisior. Additionally, make sure to specify the OrCAD and Allegro software, and to check the box to request access to the online education and training resources.
 
@@ -65,13 +63,9 @@ If you're not sure that your computer meets the specifications for Cadence's sof
 
 To use CUapps, you can either download the Citrix Workspace desktop application by following the linked CCIT instructions, or you can access CUapps online in your web browser. While in CUapps, click the "Apps" icon at the top of the window and then scroll down to find the app you wish to use. From the Cadence suite, you'll have access to Capture CIS 2022, which is used primarily for schematic and circuit design, Allegro PCB Editor, which is used for printed circuit board design, as well as the Cadence Help 2022 and the Cadence OrCAD and Allegro Tutorials 2022 which can be used for troubleshooting and basic help using the apps.
 
-<div style="display: flex; justify-content: center;">
-  <img src="../../../assets/getstarted/CapCUAPP.jpg" alt="Capture in CUApps">
-</div>
+![Capture in CUApps](../../../assets/getstarted/CapCUAPP.jpg)
 
-<div style="display: flex; justify-content: center;">
-  <img src="../../../assets/getstarted/APEAPP.jpg" alt="Allegro in CUApps">
-</div>
+![Allegro in CUApps](../../../assets/getstarted/APEAPP.jpg)
 
 ### Using the Palmetto Cluster
 Some Cadence software, such as Virtuoso and Innovus, are Linux-based applications. Clemson has installed these softwares onto the Palmetto Cluster high-powered computing machine so that they can be accessed remotely and can utilize the full power of this HPC machine. To use these applications, you'll have to setup an account for the Palmetto Cluster.

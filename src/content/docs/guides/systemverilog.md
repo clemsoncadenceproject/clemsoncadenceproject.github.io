@@ -52,15 +52,11 @@ This module gives insight on how to create more precise timing for your stimulus
 1. To start the application, enter these options behind your files: **-access +rwc -gui -64bit. -access +rwc** is crucial because it will allow the simulation file to be read.
 
 <!-- markdownlint-disable MD033 -->
-<p align="center">
-  <img src="../../../assets/guide_assets/sv_guide_assets/SimVision1.png" alt="SimVisionCommandline">
-</p>
+![SimVision Command Line](../../../assets/guide_assets/sv_guide_assets/SimVision1.png)
 
 2. When you enter SimVision click on testflop to reveal the data options. Right click the block you want to view and select Send to Waveform Window.
 
-<p align="center">
-  <img src="../../../assets/guide_assets/sv_guide_assets/SimVision2.png" alt="SimVisionWDesignBrowser">
-</p>
+![SimVision Design Browser](../../../assets/guide_assets/sv_guide_assets/SimVision2.png)
 
 3. In the Waveform window, select the down arrow on the right of the play button and input how long you want the simulation to run for. After running the simulation, you can adjust the viewing by enlarging or constraining the timescale using the plus and minus symbols in the top right
 
@@ -96,17 +92,11 @@ The module provides an explanation on covergroups and coverpoints to make sure t
 
 To use IMC, use the command **module load cadence/VMANAGER/2209** in the terminal
 
-<p align="center">
-  <img src="../../../assets/guide_assets/sv_guide_assets/IMC1.png" alt="IMC1">
-</p>
+![IMC1](../../../assets/guide_assets/sv_guide_assets/IMC1.png)
 
-<p align="center">
-  <img src="../../../assets/guide_assets/sv_guide_assets/IM2.png" alt="IMC2">
-</p>
+![IMC3](../../../assets/guide_assets/sv_guide_assets/IM2.png)
 
-<p align="center">
-  <img src="../../../assets/guide_assets/sv_guide_assets/IM3.png" alt="IMC3">
-</p>
+![IMC3](../../../assets/guide_assets/sv_guide_assets/IM3.png)
 
 <!-- markdownlint-enable MD033 -->
 
