@@ -26,7 +26,8 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Guides Hub', slug: 'guides/hub' },
 						{ label: 'SystemVerilog Guide', slug: 'guides/systemverilog' },
-						{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/alcapture' }
+						{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/alcapture' },
+						{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/hdlftb' }
 					],
 				},
 				{
