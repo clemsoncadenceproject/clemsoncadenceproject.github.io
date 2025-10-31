@@ -28,7 +28,8 @@ export default defineConfig({
 						{ label: 'SystemVerilog Guide', slug: 'guides/systemverilog' },
 						{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/alcapture' },
 						{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/hdlftb' },
-						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' }
+						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' },
+						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' }
 					],
 				},
 				{
