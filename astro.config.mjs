@@ -24,12 +24,21 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						// Alan here: Not sure how to implement Guide hub page to list all the guides and be a dropdown menu yet
+						// Made a placeholder (Guide Collection) for now
 						{ label: 'Guides Hub', slug: 'guides/hub' },
+						{
+							label: 'Guide Collection',
+							collapsed: true, // Guides will be collapsed by default to declutter the sidebar
+							items: [
 						{ label: 'SystemVerilog Guide', slug: 'guides/systemverilog' },
 						{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/alcapture' },
 						{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/hdlftb' },
 						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' },
-						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' }
+						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' },
+						{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/constraintmanager' }
+							],
+						},
 					],
 				},
 				{
