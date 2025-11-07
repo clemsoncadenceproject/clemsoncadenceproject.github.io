@@ -3,6 +3,8 @@ title: Allegro Design Entry HDL Basics
 description: Guide for Allegro Design Entry HDL Basics Badge
 ---
 
+By Jarret
+
 # General Notes
 
 * Here is the [link](https://www.cadence.com/en_US/home/training/all-courses/85053.html) to the course.

@@ -4,6 +4,8 @@ title: Allegro Design Entry HDL Front-to-Back Flow
 description: Guide for Allegro Design Entry HDL Front-to-Back Flow 
 --- 
 
+By Jarret
+
 # General Notes
 
 * Follow the same steps as above for starting this project; however, **DO NOT** download the lab database into OneDrive (or any form of online storage), as this caused problems down the line for me archiving the project, etc. 

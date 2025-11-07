@@ -3,6 +3,8 @@ title: Allegro PCB Editor Basic Technique
 Descirption: Guide for Allegro PCB Editor Basic Technique
 ---
 
+By Jarret
+
 # General Notes
 
 Here is the [link](https://www.cadence.com/en_US/home/training/all-courses/86097.html) to the course.

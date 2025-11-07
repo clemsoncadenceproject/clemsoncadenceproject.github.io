@@ -36,7 +36,8 @@ export default defineConfig({
 						{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/hdlftb' },
 						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' },
 						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' },
-						{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/constraintmanager' }
+						{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/constraintmanager' },
+						{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/allegrointermediate' }
 							],
 						},
 					],
