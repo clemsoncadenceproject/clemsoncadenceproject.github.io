@@ -37,7 +37,10 @@ export default defineConfig({
 						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' },
 						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' },
 						{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/constraintmanager' },
-						{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/allegrointermediate' }
+						{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/allegrointermediate' },
+						{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/virtuosostartup' },
+						{ label: 'DRC & LVS with Pegasus', slug: 'guides/pegasusdrclvs' },
+
 							],
 						},
 					],
