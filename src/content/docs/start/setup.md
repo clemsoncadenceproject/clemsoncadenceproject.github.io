@@ -27,22 +27,7 @@ Now, you should be able to login and access the Cadence Support home page. This 
 
 ### Training Courses
 
-The first step towards gaining training experience with Cadence's tools is figuring out what your goals are and what kind of tools you'd actually like to work with. Take a look at Cadence's [Learning Maps](https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/training/learning-maps.pdf) to get an idea of what paths are available for you to explore.
-
-For circuit and PCB design, the best place to start is on the PCB Design and Analysis page. The Logic Design and the PCB Design paths are both great for getting experience with general circuit and PCB design skills and techniques, often with the Allegro Design Entry Using OrCAD Capture and the Allegro PCB Editor Basic Techniques courses as a starting point.
-
-The next step is to add training courses to your training dashboard so that you can begin working through them. The easiest way to do this is from the Learning Map document itself. Each course should be hyperlinked so that if you click on its name, it'll redirect you to the Cadence page for that course. From here, you can log in to your Cadence account and add the course. Choose "Online Course", and then select "Enroll" next to the number of the software release which you are using (22.1 for OrCAD and Allegro).
-
-To access your training dashboard, go back to the Cadence Support home page, then select Learning > Training Dashboard from the top banner menu. Your training dashboard will show you all of the courses you are currently enrolled in, and will allow you to select a course to go to its page and resume your training.
-
-From the Learning tab on the Cadence Support page, you can also select Online Courses or Training Catalog to go to a page where you can more easily search for and enroll into courses.
-
-Once you have some courses added to your training dashboard, you're ready to get started with your training! Also, feel free to explore this Learning section of the Cadence Support site more, as you can find different tools that will help you track your progress in your courses, view any badges you've received, and look at your training stats for different courses.
-
-Once you've found a training course that you'd like to start, just click on the course's icon on your training dashboard. This should open up the course's page, where you can view your progress in completing the different course materials, and it should also open up a pop-up window for the course's training modules. If this is the first time you're beginning a Cadence training course, you will have to complete a license agreement. Additionally, if it's your first time starting a specific course, it may take you to a page containing information about the course, where you can select "Start Course" to begin working on the training modules.
-
-All of the course's content is in the learning modules. Here's where you'll have your lesson videos, demos, and lab assignments for learning and practicing with the different Cadence tools. One thing that is very important is to scroll down to the bottom of the first module, usually titled Module 01: About this Course, and click on the "Database Download" button. This will scroll down to another page with different download buttons. Find and click the "Lab Database" button to download all of the lab materials that you'll need for the course. This will download a .zip file containing the demo files and directories you'll be using to create designs for the course. Open up File Explorer on your computer and go to Downloads. Right click on the .zip folder which you just downloaded and click "Extract All...", and then choose a directory to extract the files to. I recommend saving them into the Cadence directory that holds your Cadence software downloads, and then in a new folder in there titled with the name of the course. Hit "Extract" and then wait for your files to extract, which may take a minute. 
-
+The first step towards gaining training experience with Cadence's tools is figuring out what your goals are and what kind of tools you'd actually like to work with. Take a look at Cadence's [Learning Maps](https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/training/learning-maps.pdf) to get an idea of what paths are available for you to explore. For more information, visit the [Training Courses](/start/training) page.
 
 
 ## Software Access

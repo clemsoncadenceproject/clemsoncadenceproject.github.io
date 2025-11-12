@@ -40,6 +40,8 @@ export default defineConfig({
 						{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/allegrointermediate' },
 						{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/virtuosostartup' },
 						{ label: 'DRC & LVS with Pegasus', slug: 'guides/pegasusdrclvs' },
+						{ label: 'Allegro System Capture Front-to-Back Flow', slug: 'guides/syscapftb' }
+
 
 							],
 						},
