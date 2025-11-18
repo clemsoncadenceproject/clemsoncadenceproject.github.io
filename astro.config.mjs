@@ -45,6 +45,14 @@ export default defineConfig({
 
 							],
 						},
+						{
+							label: 'Student Projects',
+							collapsed: true,
+							items: [
+								{ label: 'DC Motor Controller and Test Adapter Board', slug: 'guides/dcmotorcontroller'},
+								{ label: '32-Bit Computer Processor', slug: 'guides/32bitprocessor'}
+							],
+						},
 					],
 				},
 				{
