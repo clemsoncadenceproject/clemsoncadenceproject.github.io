@@ -19,13 +19,13 @@ Each user has a personal training dashboard through which they can access all of
 
 License restrictions may result in a situation where we do not have access to a specific software version listed on a training course. In this case, we recommend choosing the closest version available.
 
-![Add a course](../../../assets/getstarted/trainingdash1.jpg)
+![Add a course](/assets/getstarted/trainingdash1.jpg)
 
 To access your training dashboard, go back to the [Cadence Support](https://support.cadence.com/apex/homePage?returnParam=true) home page, then select **Learning** > **Training Dashboard** from the top banner menu. Your training dashboard will show you all of the courses you are currently enrolled in, and will allow you to select a course to go to its page and resume your training.
 
 From the Learning tab on the Cadence Support page, you can also select Online Courses or Training Catalog to go to a page where you can more easily search for and enroll into courses.
 
-![View Dash](../../../assets/getstarted/trainingdash2.jpg)
+![View Dash](/assets/getstarted/trainingdash2.jpg)
 
 
 Once you have some courses added to your training dashboard, you're ready to get started with your training! Also, feel free to explore this Learning section of the Cadence Support site more, as you can find different tools that will help you track your progress in your courses, view any badges you've received, and look at your training stats for different courses.
@@ -34,13 +34,13 @@ Once you have some courses added to your training dashboard, you're ready to get
 
 Once you've found a training course that you'd like to start, just click on the course's icon on your training dashboard. This should open up the course's page, where you can view your progress in completing the different course materials, and it should also open up a pop-up window for the course's training modules. If this is the first time you're beginning a Cadence training course, you will have to complete a license agreement. Additionally, if it's your first time starting a specific course, it may take you to a page containing information about the course, where you can select **"Start Course"** to begin working on the training modules.
 
-![Course Page](../../../assets/getstarted/coursepage.jpg)
+![Course Page](/assets/getstarted/coursepage.jpg)
 
 All of the course's content is in the learning modules. Here's where you'll have your lesson videos, demos, and lab assignments for learning and practicing with the different Cadence tools. One thing that is **very important** is to scroll down to the bottom of the first module, usually titled **Module 01: About this Course**, and click on the "Database Download" button. This will scroll down to another page with different download buttons. Find and click the **"Lab Database"** button to download all of the lab materials that you'll need for the course. This will download a .zip file containing the demo files and directories you'll be using to create designs for the course. Open up File Explorer on your computer and go to Downloads. Right click on the .zip folder which you just downloaded and click **"Extract All..."**, and then choose a directory to extract the files to. I recommend saving them into the Cadence directory that holds your Cadence software downloads, and then in a new folder in there titled with the name of the course. Hit **"Extract"** and then wait for your files to extract, which may take a minute. 
 
-![Lab Database Location](../../../assets/getstarted/trainingdb1.jpg)
+![Lab Database Location](/assets/getstarted/trainingdb1.jpg)
 
-![Database Download](../../../assets/getstarted/trainingdb2.jpg)
+![Database Download](/assets/getstarted/trainingdb2.jpg)
 
 ## Student Recommendations
 
