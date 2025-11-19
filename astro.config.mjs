@@ -23,9 +23,8 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						// Alan here: Not sure how to implement Guide hub page to list all the guides and be a dropdown menu yet
-						// Made a placeholder (Guide Collection) for now
+						// New Alan Note (10/18/25) added sections for each guide type
+						// Place your guide entires under their respective section at your discretion
 						{ label: 'Guides Hub', slug: 'guides/hub' },
 						{
 							label: 'Analog',
