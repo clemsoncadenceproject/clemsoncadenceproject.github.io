@@ -31,11 +31,11 @@ This course builds on the schematic design entry concepts touched on in the Desi
 
 Module 1 of the course simply contains an overview of what the course will cover. It is still important to read over this and gather an understanding of what you will be learning. Before starting the course you should head to the Database Downloads module of the course. On the Module 1 page, click "Database Downloads" and save the folder "Lab Database" to a location on your computer. I recommend making this folder easy to access as you will be navigating to it a lot throughout the course. Right-click on this folder, and click "Extract all". Also, open up the "Lab PDF" in a new tab. See below.
 
-![Module1_1_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_1.png)
+![Module1_1_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_1.png)
 
-![Module1_2_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_2.png)
+![Module1_2_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_2.png)
 
-![Module1_3_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_3.png)
+![Module1_3_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_3.png)
 
 ## Module 2: Using Project Manager Design Flows
 
@@ -73,7 +73,7 @@ Module 9 dives back into using the Design Entry HDL application. This means you 
 
 The labs for this module cover some design entry and creation. This is somewhat redundant as nearly all this material was covered in the Allegro Design Entry Using OrCAD Capture course, however, I would highly recommend still thoroughly following along with the lab as it is good review and practice. This module's lab is also taught using the standard mode, as opposed to the windowed mode covered in the previous course. Remember always to choose a **PACK_TYPE** (as seen below choosing the SOIC option) option or **VALUE** option (for a discrete component) when adding parts, even when there is just one option. Failure to make a selection for one of these categories will prompt an error when trying to save the project.
 
-![Module10_1_HDLBasics](../../../assets/guide_assets/hdlbasics_guide_assets/module10_1.png)
+![Module10_1_HDLBasics](/assets/guide_assets/hdlbasics_guide_assets/module10_1.png)
 
 ## Module 11: Engineering Changes
 

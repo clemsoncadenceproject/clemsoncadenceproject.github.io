@@ -45,15 +45,15 @@ In the first lab of this module, you go through a bunch of different .brd files 
 
 In lab 1 and 2 of this module, the main part I got stuck on is routing the differential pairs. This would be easy, but you need to route some of the connections on the int layers of the board using vias. To do this, go ahead and route as many of the connections as you can before you need to cross some of them. (Seen below in picture to the left). Once you are done with this, go ahead and change the alternate layer in the options tab to "Int 1", then, right click to "Via Pattern" and select whatever via pattern works best with your current wire direction. Then right click and choose "Add Via", then you can route across the other wires. Now, right click again and choose "Via Pattern" and then "Add Via" and finish the wiring to the destination differential pair. (Seen below in picture to the right).
 
-![Module9_1_AI](../../../assets/guide_assets/allegro_intermediate_images/Module9_1.png)
+![Module9_1_AI](/assets/guide_assets/allegro_intermediate_images/Module9_1.png)
 
-![Module9_2_AI](../../../assets/guide_assets/allegro_intermediate_images/Module9_2.png)
+![Module9_2_AI](/assets/guide_assets/allegro_intermediate_images/Module9_2.png)
 
 In addition to this, in the end of lab 1, you are tasked to change the **Max Uncoupled Length** to get rid of the DRC's. If you hover your cursor over the DRC error it tells you the actual value which easily allows you to change the **Max Uncoupled Length** to get rid of the DRC.
 
-![Module9_3_AI](../../../assets/guide_assets/allegro_intermediate_images/Module9_3.png)
+![Module9_3_AI](/assets/guide_assets/allegro_intermediate_images/Module9_3.png)
 
-![Module9_4_AI](../../../assets/guide_assets/allegro_intermediate_images/Module9_3.png)
+![Module9_4_AI](/assets/guide_assets/allegro_intermediate_images/Module9_3.png)
 
 ## Module 12
 
@@ -63,4 +63,4 @@ The way I recommend writing these files is by going into tools, reports, NEW/EDI
 
 Below, you can see how I wrote the code to solve lab 1. First, for the group, there are probably multiple different options that would work but I chose Composite_Pad. Then I selected "NET_NAME," "PIN_NUMBER," and "REFDES," as these are the three requested by the lab. I then saved this file, and went into Notepad on windows to edit it, adding the " = '' " next to the NET_NAME line. This makes it so the report only includes those pins that are unused.
 
-![Module12_1_AI](../../../assets/guide_assets/allegro_intermediate_images/Module12_1.png)
+![Module12_1_AI](/assets/guide_assets/allegro_intermediate_images/Module12_1.png)

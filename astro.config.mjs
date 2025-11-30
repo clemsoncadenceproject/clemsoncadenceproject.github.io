@@ -23,26 +23,46 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						// Alan here: Not sure how to implement Guide hub page to list all the guides and be a dropdown menu yet
-						// Made a placeholder (Guide Collection) for now
+						// New Alan Note (10/18/25) added sections for each guide type
+						// Place your guide entires under their respective section at your discretion
+						// very good alan... >:) -ian
+						// also do you know if we can make the right sidebar smaller? kinda chunky
 						{ label: 'Guides Hub', slug: 'guides/hub' },
 						{
-							label: 'Guide Collection',
-							collapsed: true, // Guides will be collapsed by default to declutter the sidebar
+							label: 'Analog',
+							collapsed: true,
 							items: [
-						{ label: 'SystemVerilog Guide', slug: 'guides/systemverilog' },
-						{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/alcapture' },
-						{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/hdlftb' },
-						{ label: "Allegro Design Entry HDL Basics", slug: 'guides/hdlbasics' },
-						{ label: 'Allegro PCB Editor Basics', slug: 'guides/allegrobasics' },
-						{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/constraintmanager' },
-						{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/allegrointermediate' },
-						{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/virtuosostartup' },
-						{ label: 'DRC & LVS with Pegasus', slug: 'guides/pegasusdrclvs' },
-						{ label: 'Allegro System Capture Front-to-Back Flow', slug: 'guides/syscapftb' }
-
-
+								{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/analog/virtuosostartup' },
+								{ label: 'Virtuoso Schematics & Sims', slug: 'guides/analog/virtuososs' },
+								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' }
+							],
+						},
+						{
+							label: 'Digital',
+							collapsed: true,
+							items: [
+								{ label: 'SystemVerilog Guide', slug: 'guides/digital/systemverilog' }
+							],
+						},
+						{
+							label: 'PCB',
+							collapsed: true,
+							items: [
+								{ label: 'Allegro Design Entry Using OrCAD Capture', slug: 'guides/pcb/alcapture' },
+								{ label: 'Allegro PCB Editor Basics', slug: 'guides/pcb/allegrobasics' },
+								{ label: 'Allegro PCB Editor Intermediate Techniques', slug: 'guides/pcb/allegrointermediate' },
+								{ label: 'OrCAD Capture Constraint Manager PCB Flow', slug: 'guides/pcb/constraintmanager' },
+								{ label: 'Allegro System Capture Front-to-Back Flow', slug: 'guides/pcb/syscapftb' },
+								{ label: 'Allegro Design Entry HDL Basics', slug: 'guides/pcb/hdlbasics' },
+								{ label: 'Allegro Design Entry HDL Front-to-Back Flow', slug: 'guides/pcb/hdlftb' }
+							],
+						},
+						{
+							label: 'Student Projects',
+							collapsed: true,
+							items: [
+								{ label: 'DC Motor Controller and Test Adapter Board', slug: 'guides/project/dcmotorcontroller'},
+								{ label: '32-Bit Computer Processor', slug: 'guides/project/32bitprocessor'}
 							],
 						},
 					],

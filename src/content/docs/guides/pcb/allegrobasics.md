@@ -29,11 +29,11 @@ Here is the [link](https://www.cadence.com/en_US/home/training/all-courses/86097
 
 Module 1 of the course simply contains an overview of what the course will cover. It is still important to read over this and gather an understanding of what you will be learning. Before starting the course you should head to the **Database Downloads** module of the course. On the Module 1 page, click "Database Downloads" and save the folder "Lab Database" to a location on your computer. I recommend making this folder easy to access as you will be navigating to it a lot throughout the course. Right-click on this folder, and click "Extract all". Also, open up the "Lab PDF" in a new tab. See below.
 
-![Module1_1_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_1.png)
+![Module1_1_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_1.png)
 
-![Module1_2_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_2.png)
+![Module1_2_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_2.png)
 
-![Module1_3_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_3.png)
+![Module1_3_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_3.png)
 
 ## Module 2
 
@@ -43,13 +43,13 @@ For this module, once you open the PCB Editor, choose the product "Allegro PCB V
 
 It is recommended to make sure that you have the **Find, Options, Visibility, and Command** windows open. To do this, go to view, windows, and click each of these options until they have a blue checkmark next to them. In lab 3-2, at part 7, when you press the **Tab** key, you should see the U3 device attach to your pointer like this (seen below).
 
-![Module3_1](../../../assets/guide_assets/allegro_basics_guide_asset/Module3_1.png)
+![Module3_1](/assets/guide_assets/allegro_basics_guide_asset/Module3_1.png)
 
 ## Module 4
 
 In this module, you learn about the PCB Editor Initialization. Using the different ways to set up the user interface, you change the font sizes, change windows, and learn how to assign tasks to certain keys with the editor command window. Lots of visual diagrams are provided to assist you in following the labs.
 
-![Module4_1](../../../assets/guide_assets/allegro_basics_guide_asset/Module4_1.png)
+![Module4_1](/assets/guide_assets/allegro_basics_guide_asset/Module4_1.png)
 
 ## Module 5
 
@@ -61,7 +61,7 @@ In this module, you learn all about package symbols. In lab 6-1, you will setup 
 
 Shown below (on the right) should be the final result of creating the SOIC 16. 
 
-![Module6_1](../../../assets/guide_assets/allegro_basics_guide_asset/Module6_1.png)
+![Module6_1](/assets/guide_assets/allegro_basics_guide_asset/Module6_1.png)
 
 For all of the labs using the 3D canvas, just make sure all of the contact points look lined up once you have finished following the directions in the lab. 
 
@@ -87,7 +87,7 @@ The rest of the lab is fairly straightforward, but the hard part will come with 
 
 Below is an example of what your board might look like at the end of the lab.
 
-![Module10_1](../../../assets/guide_assets/allegro_basics_guide_asset/Module6_1.png)
+![Module10_1](/assets/guide_assets/allegro_basics_guide_asset/Module6_1.png)
 
 ## Module 11
 
@@ -97,7 +97,7 @@ Module 11 is super  quick and really easy to follow. There is not much to go ove
 
 Module 12 is where we can learn about routing which is how we actually connect the pins on the board to other components. There are many options for doing this with a variety of settings for how we organize the board to be as clear and realistic as possible. Shown below is how the GND and VCC planes should look after completing 12-4.
 
-![Module12_1](../../../assets/guide_assets/allegro_basics_guide_asset/Module12_1.png)
+![Module12_1](/assets/guide_assets/allegro_basics_guide_asset/Module12_1.png)
 
 ## Module 13
 

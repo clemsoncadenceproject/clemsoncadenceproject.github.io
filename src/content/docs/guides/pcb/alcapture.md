@@ -25,11 +25,11 @@ No prior knowledge of circuit design is needed for this course
 ## Module 1
 On the Module 1 page, click "Database Downloads" (also located at the bottom of the page) and save the folder "Lab Database" to a location on your computer. I recommend making this folder easy to access as you will be navigating to it a lot throughout the course. Right-click on this folder, most likely called "20210420-bimai-02" and click "Extract all". Also, open up the "Lab PDF" in a new tab. See below.
 
-![Module1_1_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_1.png)
+![Module1_1_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_1.png)
 
-![Module1_2_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_2.png)
+![Module1_2_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_2.png)
 
-![Module1_3_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_3.png)
+![Module1_3_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_3.png)
 
 ## Module 2
 
@@ -37,9 +37,9 @@ This module provides great information on getting started with the **Capture CIS
 
 Another useful portion of this module is the slide showing the common shortcut keys. These will be extremely useful if you use this software frequently and want to be able to work a little more efficiently.
 
-![Module2_1_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module2_1.png)
+![Module2_1_OrCad](/assets/guide_assets/orcad_guide_assets/Module2_1.png)
 
-![Module2_2_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module2_2.png)
+![Module2_2_OrCad](/assets/guide_assets/orcad_guide_assets/Module2_2.png)
 
 Other than this, the labs are what you're going to want to focus most of your energy to. The videos for each of the modules give in-detail information and the demo videos are nice for seeing things in action, but personally, I've found that the best way for me to learn using these Cadence training courses is to skim the videos for keywords and important info and then to jump right into the lab assignments.
 

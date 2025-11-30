@@ -33,11 +33,11 @@ This course introduces users to a different application using for creating schem
 Module 1 of the course simply contains an overview of what the course will cover. It is still important to read over this and gather an understanding of what you will be learning. Before starting the course you should head to the **Database Downloads** module of the course. On the Module 1 page, click "Database Downloads" and save the folder "Lab Database" to a location on your computer. I recommend making this folder easy to access as you will be navigating to it a lot throughout the course. Right-click on this folder, and click "Extract all". Also, open up the "Lab PDF" in a new tab. See below.
 
 
-![Module1_1_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_1.png)
+![Module1_1_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_1.png)
 
-![Module1_2_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_2.png)
+![Module1_2_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_2.png)
 
-![Module1_3_OrCad](../../../assets/guide_assets/orcad_guide_assets/Module1_3.png)
+![Module1_3_OrCad](/assets/guide_assets/orcad_guide_assets/Module1_3.png)
 
 ## Module 2: Getting Started With Design Entry HDL
 
@@ -52,7 +52,7 @@ This section covers the basic creation and setup of a Design Entry HDL project. 
 Module 4 covers part placement as well as other topics such as packaging, page management, and changing modes in the Design Entry HDL application. Each section of this module is very important as processes such as packaging are integral, especially when you start carrying the design over to the PCB Editor. Once again the lab does a great job walking through the material, however one issue that I encountered was that the application would get stuck while packaging at times during the back-annotation step. If it does this, simply restart the computer, re-open the schematic and run the packager again. Another important note is the material in lab 4-9. This lab covers switching to Windows Mode in the Design Entry HDL software. It is very important to keep the application in windows mode for the remainder of the lab as the rest of the lab manual is written assuming the user is still in windows mode. To ensure you are in windows mode, click tools, options, and under the General tab, ensure "Enable Pre-select Mode" and "Enable Windows Mode" are selected, as seen below.
 
 
-![Module4_1_HDL_FTB](../../../assets/guide_assets/hdl_ftb_guide_assets/Module4_1.png)
+![Module4_1_HDL_FTB](/assets/guide_assets/hdl_ftb_guide_assets/Module4_1.png)
 
 ## Module 5: Hierarchical and Team Design
 

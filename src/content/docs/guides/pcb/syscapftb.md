@@ -36,7 +36,7 @@ Module 1 of the course simply contains an overview of what the course will cover
 
 The first learning module of the course gives a general overview of creating and opening projects as well as the user interface of the schematic editor. The first lab will require you to the set the CDS_SITE system variable. The OrCAD Capture Constraint Manager PCB Flow section of this guide page has some images and a short description to guide you through modifying system variables. Setting the CDS_SITE variable to the proper directory is important as this specifies different setup and layout settings and contains different libraries you  will need access to. Once you get around to launching the System Capture application you will be prompted to select a product. If you are using the 22.1 software use the **Allegro System Capture Venture** product. If you are using the 17.4 software then choose the PCB Designer product. When you first open or create a project try to use **View>Panels>Unified** Search to open the **Unified Search** window. This window may prompt you to sign in. You can sign in here to access the SamacSys tab which allows you to search for parts from external libraries. Make sure to uncheck the Ultra Librarian box when signing in. Additionally you can skip the sign in if you only need to search for or place parts from local libraries.
 
-![Module2_1](../../../assets/guide_assets/syscapftb_guide_assets/module2_1.png)
+![Module2_1](/assets/guide_assets/syscapftb_guide_assets/module2_1.png)
 
 ## Module 3
 
@@ -62,21 +62,21 @@ This module introduces the constraint manager once again. Using the constraint m
 
 The final learning module covers transferring the design from the schematic editor to the PCB Editor as well as back annotating the schematic from the PCB Editor. This module's labs gave me quite a bit of issues, the first of which involved the part manager again. The first lab involves generating a netlist, however an error was prompted when trying to do this due to the part manager not being updated. However this time the part manager could not be auto updated because it needed a part to be manually updated. For this instance the part that needed updating was the RAM TC55B4257 part. To manually update a part there are two ways to go about it. First you can open the part manager and select **Details**. From here filter the list of parts by **Manual Sync** and then select the **Select a part for replacement button** for the part that needs to be manually synced. In my case this didn't work so I chose the second way to solve this issue. I simply used the unified search to find a library version of the chip I needed and replaced all the parts that needed to be manually synced.
 
-![Module8_1](../../../assets/guide_assets/syscapftb_guide_assets/module8_1.png)
+![Module8_1](/assets/guide_assets/syscapftb_guide_assets/module8_1.png)
 
-![Module8_2](../../../assets/guide_assets/syscapftb_guide_assets/module8_2.png)
+![Module8_2](/assets/guide_assets/syscapftb_guide_assets/module8_2.png)
 
-![Module8_3](../../../assets/guide_assets/syscapftb_guide_assets/module8_3.png)
+![Module8_3](/assets/guide_assets/syscapftb_guide_assets/module8_3.png)
 
 The second issue involved placing parts in the PCB Editor. For some reason the DAAMP parts could not be placed as one group in a predetermined pattern as the lab said they could be. The workaround for this is easy. The lab manual has a picture of the layout so the parts can be placed manually by using the image as a guide for which parts to place and where to place them. Later the lab asks you to display rats nest lines using cross referencing between the two programs. This may cause some trouble so to display the rats nest lines using only the PCB Editor you can start by clicking **Display>Show Rats>All**. Next click **Display>Blank Rats>All**. After this open the constraint manager by choosing **Setup>Constraints>Constraint Manager**. Once open simply click on whatever net you'd like to display it's rats nest lines. The final issue is one that you may have encountered already. When the lab asks you to auto route the PCB design, this must be done in the 17.4 software as we do not have access to the auto routing license on the 22.1 software. For detailed instructions on how to do this refer to the **Allegro Design Entry HDL Front-to-Back Flow** section of this guide page.
 
-![Module8_4](../../../assets/guide_assets/syscapftb_guide_assets/module8_4.png)
+![Module8_4](/assets/guide_assets/syscapftb_guide_assets/module8_4.png)
 
-![Module8_5](../../../assets/guide_assets/syscapftb_guide_assets/module8_5.png)
+![Module8_5](/assets/guide_assets/syscapftb_guide_assets/module8_5.png)
 
-![Module8_6](../../../assets/guide_assets/syscapftb_guide_assets/module8_6.png)
+![Module8_6](/assets/guide_assets/syscapftb_guide_assets/module8_6.png)
 
-![Module8_7](../../../assets/guide_assets/syscapftb_guide_assets/module8_6.png)
+![Module8_7](/assets/guide_assets/syscapftb_guide_assets/module8_6.png)
 
 # Resources
 
