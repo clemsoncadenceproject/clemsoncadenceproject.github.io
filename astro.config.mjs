@@ -25,12 +25,15 @@ export default defineConfig({
 					items: [
 						// New Alan Note (10/18/25) added sections for each guide type
 						// Place your guide entires under their respective section at your discretion
+						// very good alan... >:) -ian
+						// also do you know if we can make the right sidebar smaller? kinda chunky
 						{ label: 'Guides Hub', slug: 'guides/hub' },
 						{
 							label: 'Analog',
 							collapsed: true,
 							items: [
 								{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/analog/virtuosostartup' },
+								{ label: 'Virtuoso Schematics & Sims', slug: 'guides/analog/virtuososs' },
 								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' }
 							],
 						},
