@@ -11,6 +11,9 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/Clemson_Cadence Logo.png'
 			},
+
+			customCss: ['./src/styles/starlight.css'],
+			
 			sidebar: [
 				{
 					label: 'Getting Started',

@@ -1,0 +1,26 @@
+@media (min-width: 72rem) {
+  :root {
+    /* Make the TOC column narrower */
+    --sl-toc-width: 12rem;   /* default ~14–15rem */
+
+    /* Optional: give content a hair more room */
+    --sl-content-width: 60rem;
+  }
+
+  /* Tighten TOC item spacing */
+  .sl-toc {
+    font-size: 0.9rem;
+  }
+
+  .sl-toc nav ul li {
+    margin-bottom: 0.25rem;
+  }
+
+  /* Center all images in docs content */
+    .sl-markdown-content img {
+    display: block;
+    margin: 1rem auto;
+    }
+
+
+}
