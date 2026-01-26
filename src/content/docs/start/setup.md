@@ -38,7 +38,7 @@ The first software you'll want to install is the Cisco AnyConnect VPN. This will
 
 Expand the "Instructions" section to view all the steps for installing the VPN, then hit "Download for Windows" and begin the installation process. Once the software is done installing, launch the Cisco AnyConnect app. You'll want to connect to "cuvpn.clemson.edu". You'll be prompted to log in - use your Clemson username, password, and then type "push" in the third field in order to get the two-factor authentication sent to your Duo app.
 
-![Cisco VPN](/src/assets/getstarted/citrix.jpg)
+![Cisco VPN](/assets/getstarted/citrix.jpg)
 
 ### OrCAD and Allegro
 
@@ -46,9 +46,9 @@ The OrCAD Suite is Cadence's premier PCB design platform, supporting a wide arra
 
 To download this software, you'll need to go log onto the [Cadence Support](https://support.cadence.com/apex/homePage) home page, then navigate to **Software > Download Software** in order to get to their [software downloads page](https://downloads.cadence.com/ESDWeb/Welcome.eo). In the search bar, search "OrCAD". We're going to click on the **OrCAD X/Allegro X 24.1 (SPB241)** release - the most recent software release for OrCAD/Allegro supported by our academic license as of Fall 2025. At this point, you'll have two different options for installation. You could install the download manager and download the software from there, or you could download the .zip files for the software and the hotfix. We're going to go with the first option, since it's much more straight-forward and user-friendly.
 
-![Allegro Download](/src/assets/getstarted/allegro/allegrodownload.jpg)
+![Allegro Download](/assets/getstarted/allegro/allegrodownload.jpg)
 
-![Allegro Download 2](/src/assets/getstarted/allegro/allegrodownload2.jpg)
+![Allegro Download 2](/assets/getstarted/allegro/allegrodownload2.jpg)
 
 
 Once downloaded, go to your downloads folder and right-click on the executable for the download manager. Select **"Run as Administrator"** and then select **"Yes"** when the pop-up asks if you'd like to allow the software to make changes to your device. When the installer runs, select **"Agree"**, then hit **"Next"**. On the second screen, select the file path for the installation of the download manager - I just chose the default. Hit **"Next"**. Lastly, check the boxes to create a shortcut (if you'd like) and to run the application once it's finished installing. Hit **"Finish"**.
@@ -59,7 +59,7 @@ Before you hit "Install", please note that this installation takes a long time. 
 
 For more information on which pieces of Cadence software are supported by our academic license, see [Resources](/other/resource).
 
-![Download Manager](/src/assets/getstarted/allegro/downmanager.jpg)
+![Download Manager](/assets/getstarted/allegro/downmanager.jpg)
 
 It should take 10-15 minutes for the download manager to download all of the installation files from Cadence's website. After it has downloaded everything it needs, it'll prompt you to either install now, or install later. This is your chance to make sure you're going to have enough time to leave your computer idle while the installation occurs.
 
@@ -67,7 +67,7 @@ If you're ready to start installing, click **"Install Now"**. This will begin th
 
 This last screen is the most important, since messing up the license file settings will prevent you from accessing any and all of the software you're installing. The license server we're using as **"license8.clemson.edu"** located at **port 28070**. It is __VERY IMPORTANT__ that these are copied exactly. Select **"Connect to an Existing License Server"**, and put this information into the fields below. When you're done, hit "Install". It'll now begin installing the OrCAD and Allegro softwares, which may take anywhere between 40 minutes to 2 hours, depending on the type of hard drive or SSD you have on your computer. 
 
-![License](/src/assets/getstarted/allegro/license.jpg)
+![License](/assets/getstarted/allegro/license.jpg)
 
 Note that when installing, there won't be a progress bar in the download manager software, but there should be a few icons for the download manager that appear on your desktop toolbar. You won't be able to open these into an application window, but DO NOT close these processes, as they're what's installing the software. One of them should have a green progress bar on the icon so that you can track the installation process.
 
