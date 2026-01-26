@@ -38,9 +38,44 @@ The first software you'll want to install is the Cisco AnyConnect VPN. This will
 
 Expand the "Instructions" section to view all the steps for installing the VPN, then hit "Download for Windows" and begin the installation process. Once the software is done installing, launch the Cisco AnyConnect app. You'll want to connect to "cuvpn.clemson.edu". You'll be prompted to log in - use your Clemson username, password, and then type "push" in the third field in order to get the two-factor authentication sent to your Duo app.
 
-![Cisco VPN](/assets/getstarted/citrix.jpg)
+![Cisco VPN](/src/assets/getstarted/citrix.jpg)
 
 ### OrCAD and Allegro
+
+The OrCAD Suite is Cadence's premier PCB design platform, supporting a wide array of advanced features (EMC simulation, RF tools, etc..) beyond those of leading alternatives. OrCAD Capture is used to create schematics and design parts and circuit elements, and Allegro PCB Editor takes this information and allows you to design your own printed circuit boards for manufacturing.
+
+To download this software, you'll need to go log onto the [Cadence Support](https://support.cadence.com/apex/homePage) home page, then navigate to **Software > Download Software** in order to get to their [software downloads page](https://downloads.cadence.com/ESDWeb/Welcome.eo). In the search bar, search "OrCAD". We're going to click on the **OrCAD X/Allegro X 24.1 (SPB241)** release - the most recent software release for OrCAD/Allegro supported by our academic license as of Fall 2025. At this point, you'll have two different options for installation. You could install the download manager and download the software from there, or you could download the .zip files for the software and the hotfix. We're going to go with the first option, since it's much more straight-forward and user-friendly.
+
+![Allegro Download](/src/assets/getstarted/allegro/allegrodownload.jpg)
+
+![Allegro Download 2](/src/assets/getstarted/allegro/allegrodownload2.jpg)
+
+
+Once downloaded, go to your downloads folder and right-click on the executable for the download manager. Select **"Run as Administrator"** and then select **"Yes"** when the pop-up asks if you'd like to allow the software to make changes to your device. When the installer runs, select **"Agree"**, then hit **"Next"**. On the second screen, select the file path for the installation of the download manager - I just chose the default. Hit **"Next"**. Lastly, check the boxes to create a shortcut (if you'd like) and to run the application once it's finished installing. Hit **"Finish"**.
+
+The download manager should install pretty quickly - usually in under a minute. Once the download manager finishes installing, it'll run automatically. Once in the app, scroll down to the **"OrCAD and Allegro"** option. Make sure that it's set to the 24.1 installation.
+
+Before you hit "Install", please note that this installation takes a long time. The download manager app has to download about 13GB of compressed zip files from Cadence, unpack these, then install. Make sure that you can leave your computer on/charging for this amount of time and that you have a fast, stable internet connect. When you're ready, hit **"Install"**.
+
+For more information on which pieces of Cadence software are supported by our academic license, see [Resources](/other/resource).
+
+![Download Manager](/src/assets/getstarted/allegro/downmanager.jpg)
+
+It should take 10-15 minutes for the download manager to download all of the installation files from Cadence's website. After it has downloaded everything it needs, it'll prompt you to either install now, or install later. This is your chance to make sure you're going to have enough time to leave your computer idle while the installation occurs.
+
+If you're ready to start installing, click **"Install Now"**. This will begin the installation process of the OrCAD and Allegro software, and it should open up the installation wizard for the software. On the first page on the installation wizard, select **"I Accept"**, then click **"Next"**. On the second page, make sure to select **"Anyone who uses this computer (all users)"**, and check the boxes to install both the OrCAD Products and Allegro Products. You can also specify your installation path for the software here. I just left it on it's default settings, which puts it in a Cadence folder on my main drive. Click **"Next"**. 
+
+This last screen is the most important, since messing up the license file settings will prevent you from accessing any and all of the software you're installing. The license server we're using as **"license8.clemson.edu"** located at **port 28070**. It is __VERY IMPORTANT__ that these are copied exactly. Select **"Connect to an Existing License Server"**, and put this information into the fields below. When you're done, hit "Install". It'll now begin installing the OrCAD and Allegro softwares, which may take anywhere between 40 minutes to 2 hours, depending on the type of hard drive or SSD you have on your computer. 
+
+![License](/src/assets/getstarted/allegro/license.jpg)
+
+Note that when installing, there won't be a progress bar in the download manager software, but there should be a few icons for the download manager that appear on your desktop toolbar. You won't be able to open these into an application window, but DO NOT close these processes, as they're what's installing the software. One of them should have a green progress bar on the icon so that you can track the installation process.
+
+Once the software finishes installing, you should be all set! Hit the windows key and search "Capture CIS" and "Allegro" to make sure everything is installed. It should look something like the following:
+
+When you're ready, you can go ahead and launch your new software. Remember: you must be connected to the CUVPN or on the Clemson campus network to be able to use this software. Otherwise, you'll get an error saying that the license file was not found or couldn't be accessed. Additionally, the first time you run OrCAD or Allegro, it'll prompt you to select a product. For Capture CIS, select the **"Allegro PCB Design CIS L"** option, and for Allegro PCB Editor, select the **"Allegro PCB Venture"** option and check the box for "Use as default". If you have a need to, you can always change to a different product by going to File > Change Product... within either of the applications. If neither of these appear, just use the first options.
+
+After you've verified your installations, you're all set to start using the Capture and PCB Editor software. I highly recommend going to the **Training Courses** section of this page and signing up for a few of the introductory courses for OrCAD Capture and Allegro PCB so that you can learn some basic skills, get a feel for using the applications, and start collecting some badges!
 
 ### Remote Access using CUApps
 
@@ -70,7 +105,7 @@ I highly suggest completing an onboarding training session to get comfortable wi
 
 For most uses, the Palmetto cluster is accessed with a command line interface or different programming IDEs, but we need a graphical interface so that we can run our specific Cadence applications. There are a couple ways to do this, but we're going to focus on the method using the Palmetto Desktop, since it's the most accessible and easiest to use and configure. To get some more in-depth information about the different ways to access graphical software on Palmetto, you can read the documentation here.
 
-To use the Palmetto Desktop, all you have to do is go to the Palmetto OnDemand site, click "Interactive Apps", and select the "Palmetto Desktop" option. For more information on Palmetto OnDemand, you can read the documentation here. More in-depth information on the Palmetto Desktop is also located on the Palmetto Documentation site here.
+To use the Palmetto Desktop, all you have to do is go to the [Palmetto OnDemand site](https://ondemand.rcd.clemson.edu/pun/sys/dashboard/), click "Interactive Apps", and select the "Palmetto Desktop" option. For more information on Palmetto OnDemand, you can read the documentation here. More in-depth information on the Palmetto Desktop is also located on the Palmetto Documentation site [here](https://docs.rcd.clemson.edu/palmetto/starting/).
 
 Configure the Palmetto Desktop using all the defaults, but make sure to change "Number of Hours" to the amount of time that you anticipate to be using the application for during this particular session.
 
@@ -80,7 +115,5 @@ Once you're in the Palmetto Desktop, open up a terminal. From here, you can type
 To give a specific example, the Virtuoso software (a popular option) is loaded using "module load cadence/IC/618", and then launched with "virtuoso &".
 
 Many of the training modules for the Linux-based software contain default definitions to library paths which do not exist. This is due to the setup of the Palmetto Cluster, and can be fixed by redefining your library paths on a local level to the location of the Cadence folder: "/software/commercial/cadence/".
-
-
 
 For more information, check out Cadence's training courses on the Virtuoso, Genus, Innovus, Xcelium, Sigrity, and Stratus software for the Linux operating system.
