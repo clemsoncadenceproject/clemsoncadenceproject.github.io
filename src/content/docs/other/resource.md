@@ -21,6 +21,8 @@ Alan Dayrit - adayrit@clemson.edu
 
 Caroline Cadena - ccadena@clemson.edu
 
+Ella Reece - enreece@clemson.edu
+
 ### CCIT
 
 If no resolution can be reached from the previous two sources, we will work with you to submit a ticket to CCIT. In the event that a ticket needs to be elevated to Cadence Support, students and faculty will need to work with the contacts below:
