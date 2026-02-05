@@ -4,15 +4,9 @@ description: Looking for more ways to get involved with Cadence, the electronic 
 ---
 Looking for more ways to get involved with Cadence, the electronic design automation industry, or for ways to get recognition and take advantage of your new skills? Check out some of the opportunities below!
 
-## Technical Conferences
-
-If you're a student, professor, or researcher looking to submit and present papers based on your work using Cadence's design tools, check out Cadence's [events website](https://www.cadence.com/en_US/home/company/events.html) to see a list of upcoming events online or worldwide that cover a range of topics for everything related to electronics design automation (EDA). These events are mostly Cadence sponsored, and the others are events that are general to the EDA industry but have the special interest of Cadence.
-
-Another great opportunity to look into is the [Design Automation Conference](https://dac.com/2026), which is the premier technical conference for the electronics design industry with highlighted areas relating to machine learning/artificial intelligence, EDA, embedded systems, designing on the cloud, and more! Their website contains a lot more information on the different speaker events, exhibitions, and student opportunities that the DAC has to offer. Additionally, there is a section of the conference targeted specifically to undergraduate and graduate students that includes design competitions, hacking competitions, and even opportunities for grants and scholarships. 
-
 ## Cadence Intern and Entry Level Positions
 
-Interested in an incredible opportunity to work at Cadence? Cadence Design Systems is offering undergraduate internships and new college graduate entry-level positions this in August 2024! The number of positions for these opportunities will be determined this summer. In 2023, Cadence hired 3 of their 27 interns and 2 of their entry-level new college grads from Clemson, and you could be next! Boost your chances of securing a position with Cadence by engaging in self-paced training and accumulation digital badges as concrete evidence of your skills using the resources available on this site. Don't miss out on this fantastic chance to kickstart your career!
+Interested in an incredible opportunity to work at Cadence? Cadence Design Systems is offering undergraduate internships and new college graduate entry-level positions this for Summer 2026! In 2025, Cadence hired 3 of their ~20 interns and multiple entry-level new college grads from Clemson, and you could be next! Boost your chances of securing a position with Cadence by engaging in self-paced training and accumulation digital badges as concrete evidence of your skills using the resources available on this site. Don't miss out on this fantastic chance to kickstart your career!
 
 For the internship positions, the selected students will spend their summer in San Jose, California - the heart of Silicon Valley, where they'll spend 10-12 weeks of immersion in Cadence. This program includes opportunities for both hardware and software development engineers.
 
@@ -32,7 +26,17 @@ Ideal candidates will have many of the following on their resume:
 
 * Experience in something that was not assigned by your professor – show how you are a self-starter at something.
 
-Clemson students interested in Cadence positions are encouraged to spend this summer updating and bolstering their resume by completing some of Cadence's self-paced online courses to be ready to apply for the positions in August with a demonstrated set of skills and interest in Cadence. Information regarding these intern and new grad positions can be found on Cadence's Interns and New Grads site, and more information on these specific positions will be posted as it becomes available. **We will update our site once applications are open**
+Clemson students interested in Cadence positions are encouraged to spend this summer updating and bolstering their resume by completing some of Cadence's self-paced online courses to be ready to apply for the positions in August with a demonstrated set of skills and interest in Cadence. Information regarding these intern and new grad positions can be found at the requisition links below.
+
+Link for Interns: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Customer-Success-Team_R53121-2
+
+Link for NCG: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Application-Engineer_R53122-1
+
+## Technical Conferences
+
+If you're a student, professor, or researcher looking to submit and present papers based on your work using Cadence's design tools, check out Cadence's [events website](https://www.cadence.com/en_US/home/company/events.html) to see a list of upcoming events online or worldwide that cover a range of topics for everything related to electronics design automation (EDA). These events are mostly Cadence sponsored, and the others are events that are general to the EDA industry but have the special interest of Cadence.
+
+Another great opportunity to look into is the [Design Automation Conference](https://dac.com/2026), which is the premier technical conference for the electronics design industry with highlighted areas relating to machine learning/artificial intelligence, EDA, embedded systems, designing on the cloud, and more! Their website contains a lot more information on the different speaker events, exhibitions, and student opportunities that the DAC has to offer. Additionally, there is a section of the conference targeted specifically to undergraduate and graduate students that includes design competitions, hacking competitions, and even opportunities for grants and scholarships. 
 
 ## Cadence Scholarships
 

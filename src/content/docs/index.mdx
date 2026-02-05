@@ -13,9 +13,16 @@ hero:
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
+import { LinkCard } from '@astrojs/starlight/components';
 
 
-<CardGrid stagger>
+<LinkCard
+  title="Job Positions Open!"
+  href="/other/opport"
+  description="Cadence has just posted openings for their 2026 Intern and New College Grad programs! Click here to learn more."
+/>
+
+<CardGrid>
 	<Card title="Software Setup" icon="pencil">
 		[Get started](/start/setup) working with Cadence tools on local or remote machines.
 	</Card>
