@@ -37,7 +37,8 @@ export default defineConfig({
 							items: [
 								{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/analog/virtuosostartup' },
 								{ label: 'Virtuoso Schematics & Sims', slug: 'guides/analog/virtuososs' },
-								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' }
+								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' },
+								{ label: 'DAC Design in Virtuoso', slug: 'guides/analog/virtdac' }
 							],
 						},
 						{
