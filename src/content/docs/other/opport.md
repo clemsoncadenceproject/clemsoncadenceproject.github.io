@@ -40,8 +40,24 @@ Another great opportunity to look into is the [Design Automation Conference](htt
 
 ## Cadence Scholarships
 
-Cadence also offers opportunities for a few scholarships, including the [Diversity in Technology](https://www.cadence.com/en_US/home/company/cadence-academic-network/first-generation-student-scholarship.html) Scholarship. Applications for these scholarships are expected to open this August, and interested students are recommended to work on their essays this summer.
+Cadence's Future Innovators Scholarship is now open for applications!
 
-Cadence has recently opened applications for their Women in Technology, Latinx Students in Technology, and Black Students in Technology Scholarships! These scholarships are offered to students in these groups studying Computer Science, Electrical Engineering, Computer Engineering or any other similar field. To find out more on this $5,000 scholarship opportunity visit the [Diversity in Technology Scholarship Program](https://www.cadence.com/en_US/home/company/cadence-academic-network/first-generation-student-scholarship.html) page. Cadence is accepting applications now, applications must be submitted by Monday, October 2, 2023. Over the last five year 133 students have received scholarships.
+Cadence values innovation in the next generation of the workforce. They also believe in building an environment that is driven by their One Cadence—One Team culture, and the internship program and relationships with key universities are critical parts of their strategy to support a broad pipeline of talent. 
+
+To further support this mission, they are offering the Cadence Future Innovators Scholarship for eligible students and interns. Scholarship recipients will be selected to receive a one-time scholarship of up to $5,000 to be paid directly to the institution. 
+
+Eligibility Requirements:
+
+1 - Be enrolled as a full-time student at a U.S. accredited college or university in a Bachelor’s (current graduating high school seniors are not eligible), Master’s, or PhD program in the United States for the upcoming academic year, pursuing one of these majors.
+
+2 - Minimum Cumulative GPA of 3.0
+
+3 - Exemplify leadership and demonstrate passion in technology
+
+4 - Be a U.S. Citizens, eligible noncitizens, or Dreamer per the FAFSA
+
+5 - Demonstrated financial need per the FAFSA
+
+More information and link to apply can be found here. The application window closes on Friday, February 27 at 12pm PST. We encourage students at Clemson to apply to receive support from Cadence to support their studies. 
 
 Learn more about all of the opportunities Cadence has open to students [here](https://www.cadence.com/en_US/home/company/cadence-academic-network/students.html)!
