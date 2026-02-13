@@ -11,6 +11,6 @@ Please note that this competition is being offered to **undergraduate students o
 
 ## Information
 
-The start date of the 2026 Clemson Cadence Challenge is **February 20th**. On this date, we will officially reveal the challenge rules and provide everything you need to get started. Come back to this page once the competition starts for more information.
+The start date of the 2026 Clemson Cadence Challenge is **February 20th**. On this date, we will officially reveal the challenge rules and provide everything you need to get started. Come back to this page in the coming days for more information.
 
 Access to the [Cadence Support]( https://support.cadence.com/apex/homePage?returnParam=true) website will be an invaluable resource for this competition. This website can be used to download software, access manuals, use training resources, etc... It is highly recommended that you request an account as soon as possible, steps for which can be found on our [Getting Started](/start/setup) page.
