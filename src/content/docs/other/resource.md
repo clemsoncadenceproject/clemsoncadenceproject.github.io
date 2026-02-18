@@ -17,7 +17,7 @@ For general inquiries, opinions, or software help, reach out to one of the Caden
 
 Ian Scogin - iscogin@clemson.edu
 
-Alan Dayrit - adayrit@clemson.edu
+Alan Dayrit - adayrit@clemson.edu * on co-op S
 
 Caroline Cadena - ccadena@clemson.edu
 
