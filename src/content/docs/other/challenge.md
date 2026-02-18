@@ -14,6 +14,7 @@ Please note that this competition is being offered to **undergraduate students o
 The start date of the 2026 Clemson Cadence Challenge is **February 20th**.
 
 Sign up at the link below:
+
 https://docs.google.com/forms/d/1sxeUaFnAKwCsuESnaOfq4ove9liLwgy_8JYVsOljdF0/
 
 ### Rules
