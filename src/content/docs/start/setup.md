@@ -9,21 +9,21 @@ This page will walk you through all the steps necessary to access Cadence's soft
 
 ### Creating an Account
 
-To start, you'll want to go to the [CCIT page for Cadence](https://ccit.clemson.edu/services/software-hardware/software/cadence/). Here, complete the form linked under "Request a Cadence License". This will begin the process for CCIT to work with Cadence in creating you an account with access to the software downloads and training courses that's needed to work with the Cadence software.
+As of Spring 2026, we are happy to share that the process of creating an account has been heavily streamlined. Students will no longer need to go through CCIT to create/renew their Cadence Support (now Cadence ASK) accounts for access to training materials.
 
-Since the Cadence University Program partnership was rolled out to Clemson at the beginning of the Spring 2023 semester, it's possible that an account has already been created for your username, or that you created one yourself when emails were initially sent out regarding the partnership in January of 2023. It may be beneficial to attempt to login to the Cadence Support site or create an account there using your Clemson email address before requesting access on the CCIT page.
+To get started, go to the [Cadence ASK](https://support.cadence.com) login page and navigate to the button at the top right to begin creating an account.
 
-![CCIT Request Form](/assets/getstarted/reqform.png)
+![Create Account](/assets/getstarted/createacc.jpg)
 
-On the request form, put Dr. Tao Wei's name and contact in as the information for faculty advisior. Additionally, make sure to specify the OrCAD and Allegro software, and to check the box to request access to the online education and training resources.
+Go through the signup process with your own information until you get to the "Add Your Host ID / Key" section. In order to link your account to Clemson's license, select "Academic or Content-Only Access" and enter the university's information when prompted.
 
-It may take up to two weeks for the request to be processed, but we'll try to make sure that you get a response within a day or two.
+![Host ID](/assets/getstarted/hostid.jpg)
 
-Once your account has been set up, you'll receive an email from someone at Cadence informing you that the signup process has been started and informing you of your login email address (which will be your Clemson email address). Additionally, you'll get an automated email from Cadence letting you know that your account has been registered. This email will provide you with a temporary password for your account. Please login with your Clemson email and this password immediately and change your password to something new. Should you not receive the expected response within one week of submitting the form, please feel free to contact [CCIT](https://ccit.clemson.edu/services/software-hardware/software/cadence/) for assistance. 
-
-Now, you should be able to login and access the Cadence Support home page. This is the site that we'll be using to access the software downloads and the training courses.
+Now, you should be able to log in and access the Cadence ASK home page. This is the site that we'll be using to access the software downloads and the training courses.
 
 ![Cadence Homepage](/assets/getstarted/academicnetwork.png)
+
+**Note:** This is a new login procedure, so please [Contact Us](/other/opport) if you run into any issues.
 
 ### Training Courses
 
