@@ -49,7 +49,7 @@ OR a screenshot of the badge on your Credly page. To view this with your name an
 
 2) A zip/tar file containing all of the files completed for the course's labs. We will be checking the edits made to these, so please save your changes. If you have problems with a lab activity, please [contact](/other/resource) one of us.
 
-Note: Badges must have been earned between the start date of the competition (February 20th) and the end date (March 15th at 11:59pm). Repeat badges for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4). In the event of a tie, preference will be given to the contestant with the overall number of badges.
+Note: Badges must have been earned between the start date of the competition (February 20th) and the end date (March 15th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
 
 ### Awards
 
