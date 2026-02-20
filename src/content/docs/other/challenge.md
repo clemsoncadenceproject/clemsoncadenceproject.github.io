@@ -13,9 +13,9 @@ Please note that this competition is being offered to **undergraduate students o
 
 The start date of the 2026 Clemson Cadence Challenge is **February 20th**.
 
-Sign up at the link below:
+Sign up using [this link](https://docs.google.com/forms/d/1sxeUaFnAKwCsuESnaOfq4ove9liLwgy_8JYVsOljdF0/)! There is no cutoff date for the sign-up form.
 
-https://docs.google.com/forms/d/1sxeUaFnAKwCsuESnaOfq4ove9liLwgy_8JYVsOljdF0/
+
 
 ### Rules
 
@@ -32,7 +32,7 @@ Courses with badges will appear on the Cadence learning map with the ribbon symb
 
 ### Submissions
 
-All badges must be submitted using the **badge submission form (will be posted 2/20)**. Valid submissions must contain two items:
+All badges must be submitted using the **[badge submission form](https://docs.google.com/forms/d/e/1FAIpQLScdwYWEOCLNiK09f3k17ZiMCPjNpmdTgAh5yxuWe0vn-wV-_w/viewform)**. Valid submissions must contain two items:
 
 1) Proof of the badge. Submissions must contain the name of the recipient, date earned, and the name of the badge. This can take either of the following forms:
 
