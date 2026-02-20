@@ -15,7 +15,9 @@ The start date of the 2026 Clemson Cadence Challenge is **February 20th**.
 
 Sign up using [this link](https://docs.google.com/forms/d/1sxeUaFnAKwCsuESnaOfq4ove9liLwgy_8JYVsOljdF0/)! There is no cutoff date for the sign-up form.
 
+**Update 2/20:** The initial batch of users have been added to the Palmetto Cluster for access to the Linux-based tools. See the "Using Palmetto" section of the [Setting Up](/start/setup) page for more info, and note that your accounts have already been sponsored. If you are joining in later and need to be added, [contact](/other/resource) one of us.
 
+Additionally, the method for getting access to the Cadence Academic Network has been streamlined since the initial announcement. See the [Setting Up](/start/setup) page for instructions if you do not already have access.
 
 ### Rules
 
@@ -47,7 +49,7 @@ OR a screenshot of the badge on your Credly page. To view this with your name an
 ![Button 2](/assets/challenge/button2.jpg)
 
 
-2) A zip/tar file containing all of the files completed for the course's labs. We will be checking the edits made to these, so please save your changes. If you have problems with a lab activity, please [contact](/other/resource) one of us.
+2) A zip/tar file containing all of the files completed for the course's labs (if there are any). We will be checking the edits made to these, so please save your changes. If you have problems with a lab activity, please [contact](/other/resource) one of us.
 
 Note: Badges must have been earned between the start date of the competition (February 20th) and the end date (March 15th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
 
