@@ -9,7 +9,7 @@ This page will walk you through all the steps necessary to access Cadence's soft
 
 ### Creating an Account
 
-As of Spring 2026, we are happy to share that the process of creating an account has been heavily streamlined. Students will no longer need to go through CCIT to create/renew their Cadence Support (now Cadence ASK) accounts for access to training materials.
+As of Spring 2026, we are happy to share that the process of creating an account has been heavily streamlined. New students will no longer need to go through CCIT to create their Cadence Support (now Cadence ASK) accounts for access to training materials.
 
 To get started, go to the [Cadence ASK](https://support.cadence.com) login page and navigate to the button at the top right to begin creating an account.
 
@@ -23,7 +23,16 @@ Now, you should be able to log in and access the Cadence ASK home page. This is 
 
 ![Cadence Homepage](/assets/getstarted/academicnetwork.png)
 
-**Note:** This is a new login procedure, so please [Contact Us](/other/opport) if you run into any issues.
+**Note:** This new account setup method is only available to those who have not had their accounts set up with the CCIT form. Previous users will need to go to [This Form](https://clemson.ca1.qualtrics.com/jfe/form/SV_3DyqMQTW1giG83Y) to have their accounts renewed on a yearly basis.
+
+On the request form, put Dr. Tao Wei's name and contact in as the information for faculty advisior. Additionally, make sure to specify the OrCAD and Allegro software, and to check the box to request access to the online education and training resources.
+
+It may take up to two weeks for the request to be processed, but we'll try to make sure that you get a response within a day or two.
+
+Once your account has been set up, you'll receive an email from someone at Cadence informing you that the signup process has been started and informing you of your login email address (which will be your Clemson email address). Additionally, you'll get an automated email from Cadence letting you know that your account has been registered. This email will provide you with a temporary password for your account. Please login with your Clemson email and this password immediately and change your password to something new. Should you not receive the expected response within one week of submitting the form, please feel free to contact the CCIT for assistance. **Note again that this method is only for existing users who are unable to renew with the first method**.
+
+![Request Form](/assets/getstarted/reqform.png)
+
 
 ### Training Courses
 
