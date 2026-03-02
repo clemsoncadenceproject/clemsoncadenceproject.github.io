@@ -37,7 +37,9 @@ export default defineConfig({
 							items: [
 								{ label: 'Virtuoso Palmetto Cluster Startup', slug: 'guides/analog/virtuosostartup' },
 								{ label: 'Virtuoso Schematics & Sims', slug: 'guides/analog/virtuososs' },
-								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' }
+								{ label: 'Virtuoso Layout Basics', slug: 'guides/analog/virtuosolayout' },
+								{ label: 'DRC & LVS with Pegasus', slug: 'guides/analog/pegasusdrclvs' },
+								{ label: 'DAC Design in Virtuoso', slug: 'guides/analog/virtdac' }
 							],
 						},
 						{
@@ -73,6 +75,7 @@ export default defineConfig({
 				{
 					label: 'More',
 					items: [
+						{label:'Cadence Challenge 2026', slug: 'other/challenge'},
 						{label:'Contacts & Resources', slug: 'other/resource'},
 						{label:'Opportunities', slug: 'other/opport' },
 						{label:'Credits', slug:'other/credits'}
