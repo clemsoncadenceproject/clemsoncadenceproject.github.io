@@ -75,6 +75,8 @@ Yingjie Lao
 
 John "JB" Bahrenburg
 
+Caroline Cadena
+
 Jacob Davis
 
 Alan Dayrit
@@ -86,5 +88,7 @@ Jarrett Kaeppler
 Nicholas Luminarias
 
 Andrew O'Rourke
+
+Ella Reece
 
 Ian Scogin

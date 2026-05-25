@@ -54,4 +54,4 @@ For digital designers, the Cadence RTL-to-GDSII Flow is a great starting point w
 
 For system verification, there are many comprehensive courses in various Hardware Description Languages (HDLs - such as Verilog), the Universal Verification Method (UVM), and more. Cadence also offers Onboarding Curricula at the end of the learning maps document which are used in industry to train real engineers. These are much lengthier, but are intended to bring you to the point of basic proficiency in any given domain. These skills are **highly valuable to employers**, and being pre-trained in the Cadence environment for any given specialization will give you a great advantage in the job market.
 
-Feel free to [Contact Us](/others/resource) if you have questions about specific software or courses.
+Feel free to [Contact Us](/other/resource) if you have questions about specific software or courses.
