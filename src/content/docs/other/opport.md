@@ -6,7 +6,7 @@ Looking for more ways to get involved with Cadence, the electronic design automa
 
 ## Cadence Intern and Entry Level Positions
 
-Interested in an incredible opportunity to work at Cadence? Cadence Design Systems is offering undergraduate internships and new college graduate entry-level positions this for Summer 2026! In 2025, Cadence hired 3 of their ~20 interns and multiple entry-level new college grads from Clemson, and you could be next! Boost your chances of securing a position with Cadence by engaging in self-paced training and accumulation digital badges as concrete evidence of your skills using the resources available on this site. Don't miss out on this fantastic chance to kickstart your career!
+Interested in an incredible opportunity to work at Cadence? Cadence Design Systems is offering undergraduate internships and new college graduate entry-level positions this for Summer 2027! In 2025, Cadence hired 3 of their ~20 interns and multiple entry-level new college grads from Clemson, and you could be next! Boost your chances of securing a position with Cadence by engaging in self-paced training and accumulation digital badges as concrete evidence of your skills using the resources available on this site. Don't miss out on this fantastic chance to kickstart your career!
 
 For the internship positions, the selected students will spend their summer in San Jose, California - the heart of Silicon Valley, where they'll spend 10-12 weeks of immersion in Cadence. This program includes opportunities for both hardware and software development engineers.
 
@@ -28,9 +28,7 @@ Ideal candidates will have many of the following on their resume:
 
 Clemson students interested in Cadence positions are encouraged to spend this summer updating and bolstering their resume by completing some of Cadence's self-paced online courses to be ready to apply for the positions in August with a demonstrated set of skills and interest in Cadence. Information regarding these intern and new grad positions can be found at the requisition links below.
 
-Link for Interns: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Customer-Success-Team_R53121-2
-
-Link for NCG: https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Application-Engineer_R53122-1
+Link for Interns and New Graduates: https://cadence.wd1.myworkdayjobs.com/Univ_Careers
 
 ## Technical Conferences
 

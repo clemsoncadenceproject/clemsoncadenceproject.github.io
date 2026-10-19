@@ -15,13 +15,11 @@ For general software issues, we highly recommend checking out the [Cadence Suppo
 
 For general inquiries, opinions, or software help, reach out to one of the Cadence Ambassadors! We are experienced in the Cadence environment and are happy to answer any questions about opportunities related to Cadence.
 
-Ian Scogin - iscogin@clemson.edu
-
-Alan Dayrit - adayrit@clemson.edu * on co-op S26
-
 Caroline Cadena - ccadena@clemson.edu
 
 Ella Reece - enreece@clemson.edu
+
+Alan Dayrit - adayrit@clemson.edu * on co-op F26
 
 ### CCIT
 
