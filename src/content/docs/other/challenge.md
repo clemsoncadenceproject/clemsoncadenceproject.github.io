@@ -1,23 +1,19 @@
 ---
 title: Clemson Cadence Challenge 
-description: Information on the 2026 Cadence Challenge
+description: Information on the 2027 Cadence Challenge
 ---
 
 __Welcome to the Clemson Cadence Challenge!__
 
-As part of Cadence Design Systems’ mission to foster a strong relationship with Clemson University, we are excited to announce a campus-wide competition, open to all students eager to join. Participating students will have the chance to win a *2026 paid summer internship* with Cadence in Silicon Valley, as well as Cadence merchandise and the opportunity to gain valuable experience using Cadence software.
+As part of Cadence Design Systems’ mission to foster a strong relationship with Clemson University, we are excited to announce a campus-wide competition, open to all students eager to join. Participating students will have the chance to win a *2027 paid summer internship* with Cadence in Silicon Valley, as well as Cadence merchandise and the opportunity to gain valuable experience using Cadence software.
 
 Please note that this competition is being offered to **undergraduate students only**. To be eligible for the position, students must not graduate until the internship period has ended.
 
 ## Information
 
-The start date of the 2026 Clemson Cadence Challenge is **February 20th**.
+The start date of the 2027 Clemson Cadence Challenge is **tentatively October 23rd**.
 
-Sign up using [this link](https://docs.google.com/forms/d/1sxeUaFnAKwCsuESnaOfq4ove9liLwgy_8JYVsOljdF0/)! There is no cutoff date for the sign-up form.
-
-**Update 2/20:** The initial batch of users have been added to the Palmetto Cluster for access to the Linux-based tools. See the "Using Palmetto" section of the [Setting Up](/start/setup) page for more info, and note that your accounts have already been sponsored. If you are joining in later and need to be added, [contact](/other/resource) one of us.
-
-Additionally, the method for getting access to the Cadence Academic Network has been streamlined since the initial announcement. See the [Setting Up](/start/setup) page for instructions if you do not already have access.
+Sign up using [this link](https://forms.cloud.microsoft/pages/responsepage.aspx?id=9vibDK3Mh0uBjUkCaTiql5ZzUkU1GPFMjiH5mKd2Dc5UNFdaNllFRzdMQVA5OTQ0MlJCR0JFRjAxSi4u&route=shorturl)! There is no cutoff date for the sign-up form. 
 
 ### Rules
 
@@ -34,7 +30,7 @@ Courses with badges will appear on the Cadence learning map with the ribbon symb
 
 ### Submissions
 
-All badges must be submitted using the **[badge submission form](https://docs.google.com/forms/d/e/1FAIpQLScdwYWEOCLNiK09f3k17ZiMCPjNpmdTgAh5yxuWe0vn-wV-_w/viewform)**. Valid submissions must contain two items:
+All badges must be submitted using the **[badge submission form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=9vibDK3Mh0uBjUkCaTiql5ZzUkU1GPFMjiH5mKd2Dc5UMDg2OEdGRUk4Vk9YWFc5WjROMlRKUzY3TC4u&route=shorturl)**. Valid submissions must contain two items:
 
 1) Proof of the badge. Submissions must contain the name of the recipient, date earned, and the name of the badge. This can take either of the following forms:
 
@@ -51,11 +47,11 @@ OR a screenshot of the badge on your Credly page. To view this with your name an
 
 2) A zip/tar file containing all of the files completed for the course's labs (if there are any). We will be checking the edits made to these, so please save your changes. If you have problems with a lab activity, please [contact](/other/resource) one of us.
 
-Note: Badges must have been earned between the start date of the competition (February 20th) and the end date (March 15th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
+Note: Badges must have been earned between the start date of the competition (October 23rd) and the end date (November 10th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
 
 ### Awards
 
-The winner of the 2026 Cadence Challenge will interview for a **paid summer internship with Cadence Design Systems** in San Jose, CA (Silicon Valley). Note that the past two challenges have sent five Clemson students to this program. For more information on intern and new grad positions, see [Opportunities](/other/opport).
+The winner of the 2027 Cadence Challenge will interview for a **paid summer internship with Cadence Design Systems** in San Jose, CA (Silicon Valley). Note that the past two challenges have sent five Clemson students to this program. For more information on intern and new grad positions, see [Opportunities](/other/opport).
 
 Additionally, everyone will be able to win merchandise for earning a raw number of badges.
 
@@ -74,8 +70,6 @@ Access to the [Cadence Support]( https://support.cadence.com/apex/homePage?retur
 ### Questions
 
 Please contact the following students with questions about the Cadence Challenge. Good luck!
-
-Ian Scogin - iscogin@clemson.edu
 
 Caroline Cadena - ccadena@clemson.edu
 
