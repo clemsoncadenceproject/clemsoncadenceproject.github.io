@@ -74,3 +74,5 @@ Please contact the following students with questions about the Cadence Challenge
 Caroline Cadena - ccadena@clemson.edu
 
 Ella Reece - enreece@clemson.edu
+
+Sebastian Najera - snajera@clemson.edu
