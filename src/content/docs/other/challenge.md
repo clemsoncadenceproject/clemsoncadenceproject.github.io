@@ -11,7 +11,7 @@ Please note that this competition is being offered to **undergraduate students o
 
 ## Information
 
-The start date of the 2027 Clemson Cadence Challenge is **tentatively October 23rd**.
+The start date of the 2027 Clemson Cadence Challenge is **tentatively November 5th**.
 
 Sign up using [this link](https://forms.cloud.microsoft/pages/responsepage.aspx?id=9vibDK3Mh0uBjUkCaTiql5ZzUkU1GPFMjiH5mKd2Dc5UNFdaNllFRzdMQVA5OTQ0MlJCR0JFRjAxSi4u&route=shorturl)! There is no cutoff date for the sign-up form. 
 
