@@ -23,6 +23,8 @@ Sebastian Najera - snajera@clemson.edu
 
 Alan Dayrit - adayrit@clemson.edu * on co-op F26
 
+Sebastian Najera - snajera@clemson.edu
+
 ### CCIT
 
 If no resolution can be reached from the previous two sources, we will work with you to submit a ticket to CCIT. In the event that a ticket needs to be elevated to Cadence Support, students and faculty will need to work with the contacts below:
@@ -42,4 +44,4 @@ Clemson University uses the **"Level One"** bundle of Cadence tools as per the C
 
 ## Website Help & Feedback
 
-If you're having issues using this website, questions about the Clemson Cadence Project, or any sort of feedback, please reach out to Ian Scogin at iscogin@clemson.edu. We are open to any suggestions you may have to improve the site or expand the reach of the Clemson Cadence Project!
+If you're having issues using this website, questions about the Clemson Cadence Project, or any sort of feedback, please reach out one of the student ambassadors. We are open to any suggestions you may have to improve the site or expand the reach of the Clemson Cadence Project!
