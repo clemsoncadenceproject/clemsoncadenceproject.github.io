@@ -11,7 +11,7 @@ Please note that this competition is being offered to **undergraduate students o
 
 ## Information
 
-The start date of the 2027 Clemson Cadence Challenge is **tentatively October 23rd**.
+The start date of the 2027 Clemson Cadence Challenge is **November 5th**.
 
 Sign up using [this link](https://forms.cloud.microsoft/pages/responsepage.aspx?id=9vibDK3Mh0uBjUkCaTiql5ZzUkU1GPFMjiH5mKd2Dc5UNFdaNllFRzdMQVA5OTQ0MlJCR0JFRjAxSi4u&route=shorturl)! There is no cutoff date for the sign-up form. 
 
@@ -47,7 +47,7 @@ OR a screenshot of the badge on your Credly page. To view this with your name an
 
 2) A zip/tar file containing all of the files completed for the course's labs (if there are any). We will be checking the edits made to these, so please save your changes. If you have problems with a lab activity, please [contact](/other/resource) one of us.
 
-Note: Badges must have been earned between the start date of the competition (October 23rd) and the end date (November 10th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
+Note: Badges must have been earned between the start date of the competition (October 23rd) and the end date (November 20th at 11:59pm). Repeat badge submissions for different versions of the same software (ex: Virtuoso Basics 22.1 and Virtuoso Basics 17.4) will only be counted as a single submission. In the event of a tie, preference will be given to the contestant with the overall number of badges.
 
 ### Awards
 

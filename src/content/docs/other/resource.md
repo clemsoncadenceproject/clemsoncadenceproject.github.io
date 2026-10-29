@@ -19,6 +19,8 @@ Caroline Cadena - ccadena@clemson.edu
 
 Ella Reece - enreece@clemson.edu
 
+Sebastian Najera - snajera@clemson.edu
+
 Alan Dayrit - adayrit@clemson.edu * on co-op F26
 
 ### CCIT
