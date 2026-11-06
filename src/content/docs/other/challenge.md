@@ -53,15 +53,7 @@ Note: Badges must have been earned between the start date of the competition (Oc
 
 The winner of the 2027 Cadence Challenge will interview for a **paid summer internship with Cadence Design Systems** in San Jose, CA (Silicon Valley). Note that the past two challenges have sent five Clemson students to this program. For more information on intern and new grad positions, see [Opportunities](/other/opport).
 
-Additionally, everyone will be able to win merchandise for earning a raw number of badges.
-
-5 Badges: Rontondo Cadence Mug
-
-10 Badges: Wireless Charging Pad
-
-15 Badges: Bluetooth Speaker
-
-And more!
+Additionally, everyone will be able to win merchandise for earning a raw number of badges. - Prizes TBA!
 
 ### Cadence Support
 
